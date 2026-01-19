@@ -1,2 +1,2 @@
-# .github
-VoteEasy
+# VoteEasy
+Dein einfaches Abstimmungstool.
