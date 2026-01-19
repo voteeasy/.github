@@ -1,7 +1,10 @@
 ## VoteEasy 👋
 
-* Your simple voting tool.
-* Dein einfaches Abstimmungstool.
+### 2026-01
+
+What started as a pet project will become a publicly available free and open source voting solution.
+
+Stay tuned :)
 
 
 <!--
