@@ -1,6 +1,6 @@
 ## VoteEasy 👋
 
-This GitHub organisation comprises all necessary tools of [VoteEasy[(https://einfach-abstimmen.de), your simple voting tool.
+This GitHub organisation comprises all necessary tools of [VoteEasy](https://einfach-abstimmen.de), your simple voting tool.
 
 Installation information can be found at https://einfach-abstimmen.de
 and is connected to the [webpage](https://github.com/voteeasy/webpage)-repository.
@@ -12,7 +12,7 @@ First public version of the [webapp](https://github.com/voteeasy/webapp) publish
 
 ### 2026-10
 
-[E2E test suite](https://github.com/voteeasy/webapp-e2e-tests) published.
+The [E2E test suite](https://github.com/voteeasy/webapp-e2e-tests) is published.
 
 ### 2026-01
 
